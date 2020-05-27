@@ -1,0 +1,22 @@
+#DNS over TLS at port 853
+
+#Cloudflare. Without content blocking.
+1.1.1.1
+1.0.0.1
+2606:4700:4700::1111
+2606:4700:4700::1001
+
+#Quad9. Block malicious domains.
+9.9.9.9
+149.112.112.112
+2620:fe::fe
+2620:fe::9
+
+#CleanBrowsing. May block adult content.
+185.228.168.168
+185.228.168.169
+2a0d:2a00:1::
+2a0d:2a00:2::
+
+#Google DNS
+8.8.8.8

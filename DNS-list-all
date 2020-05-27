@@ -1,0 +1,132 @@
+#Reserve DNS-list. You can use in in your resolv.conf. 
+
+#Google DNS
+8.8.8.8 
+8.8.4.4 
+2001:4860:4860::8888
+2001:4860:4860::8844
+
+#DynDNS
+216.146.35.35 
+216.146.36.36 
+
+#OpenDNS Premium
+208.67.222.222
+208.67.220.220
+
+#OpenDNS FamilyShield 
+208.67.222.123
+208.67.220.123
+
+#Visizone
+74.50.55.161
+74.50.55.162
+
+#Norton ConnectSafe
+198.153.192.1
+198.153.194.1
+# A - Securiry:
+198.153.192.40
+198.153.194.40
+# B - Securiry + porn filter:
+198.153.192.50
+198.153.194.50
+# C - Securiry + porn filter + other filtation:
+198.153.192.60
+198.153.194.60
+
+#DNS Advantage
+156.154.70.1
+156.154.71.1
+
+#DNSResolvers
+205.210.42.205
+64.68.200.200
+
+#DNS.Watch IPv4
+84.200.69.80
+84.200.70.40
+
+#DNS.Watch IPv6
+2001:1608:10:25::1c04:b12f
+2001:1608:10:25::9249:d69b
+
+#Comodo Secure DNS
+8.26.56.26
+8.20.247.20
+
+#OpenNIC IPv4
+77.73.68.161 (ns1.ru)
+51.254.25.115 (ns1.pra.cz)
+193.183.98.66 (ns1.lom.it)
+89.18.27.167 (ns1.buh.ro)
+
+#ScrubIT
+67.138.54.100
+207.225.209.66
+
+#Cable & Wireless	
+141.1.1.1
+
+#OpenNIC IPv6
+2a00:1838:37:143::cb75 (ns1.ru)
+2001:41d0:2:73d4::125 (ns1.pra.cz)
+2a00:dcc0:dead:b242::42 (ns1.lom.it)
+2001:470:2179:dead:0:3e5:0:c849 (ns1.buh.ro)
+
+#CloudFlare DNS
+1.1.1.1
+1.0.0.1
+2606:4700:4700::1111
+2606:4700:4700::1001
+
+#Yandex DNS
+#Base
+77.88.8.8
+77.88.8.1
+#Secure
+77.88.8.88
+77.88.8.2
+#For Families
+77.88.8.7
+77.88.8.3
+
+#Norge Piratpartiet DNS
+185.56.187.149
+87.238.35.136
+
+#censurfridns.dk
+# anycast.censurfridns.dk
+91.239.100.100
+2001:67c:28a4::
+
+# unicast.censurfridns.dk
+89.233.43.71
+2a01:3a0:53:53::
+
+#FoolDNS
+87.118.111.215
+81.174.67.134
+
+#Verizon (Level 3 Communications)
+4.2.2.1
+4.2.2.2
+4.2.2.3
+4.2.2.4
+4.2.2.5
+4.2.2.6
+
+#AT&T 
+68.94.156.1
+68.94.157.1
+
+#Quad9 Secure
+# Quad9 Secure IPv4 
+9.9.9.9
+
+# Quad9 Secure IPv6
+2620:fe::fe
+
+#FreeDNS
+37.235.1.174
+37.235.1.177

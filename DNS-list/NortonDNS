@@ -1,0 +1,12 @@
+#Norton ConnectSafe
+nameserver 198.153.192.1
+nameserver 198.153.194.1
+# A - Securiry:
+nameserver 198.153.192.40
+nameserver 198.153.194.40
+# B - Securiry + porn filter:
+nameserver 198.153.192.50
+nameserver 198.153.194.50
+# C - Securiry + porn filter + other filtation:
+nameserver 198.153.192.60
+nameserver 198.153.194.60

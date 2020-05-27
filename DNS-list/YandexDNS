@@ -1,0 +1,13 @@
+#Yandex DNS
+
+#Base
+nameserver 77.88.8.8
+nameserver 77.88.8.1
+
+#Secure
+nameserver 77.88.8.88
+nameserver 77.88.8.2
+
+#For Families
+nameserver 77.88.8.7
+nameserver 77.88.8.3

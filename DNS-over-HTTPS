@@ -1,0 +1,149 @@
+# Based on https://github.com/curl/curl/wiki/DNS-over-HTTPS
+
+#AdGuard
+# Default (ad blocking)
+https://dns.adguard.com/dns-query
+
+# Family protection (adult content blocking)
+https://dns-family.adguard.com/dns-query
+
+
+#Google
+https://dns.google/dns-query
+
+#Cisco Umbrella/OpenDNS (No DNSSEC)
+https://doh.opendns.com/dns-query
+
+#CleanBrowsing (parental control)
+https://doh.cleanbrowsing.org/doh/family-filter/
+
+#nextdns.io (Register requied)
+https://dns.nextdns.io/<config_id>
+
+#@chantra
+https://dns.dnsoverhttps.net/dns-query
+
+#@jedisct1
+https://doh.crypto.sx/dns-query
+
+#PowerDNS
+https://doh.powerdns.org
+
+#blahdns.com
+# Switzerland (IPv6 ONLY) 
+https://doh-ch.blahdns.com/dns-query 
+
+# Japan 
+https://doh-jp.blahdns.com/dns-query
+
+# Germany
+https://doh-de.blahdns.com/dns-query
+
+#NekomimiRouter.com
+https://dns.dns-over-https.com/dns-query
+
+#SecureDNS.eu
+https://doh.securedns.eu/dns-query
+
+#Rubyfish.cn
+https://dns.rubyfish.cn/dns-query
+
+#ContainerPI
+# Unfiltered by CloudFlare
+https://dns.containerpi.com/dns-query
+
+# Filtered by CleanBrowsing, blocks adult content
+https://dns.containerpi.com/doh/family-filter/
+
+# Filtered, blocks malicious domains only
+https://dns.containerpi.com/doh/secure-filter/
+
+#@publicarray dns.seby.io
+https://doh-2.seby.io/dns-query
+https://doh.seby.io:8443/dns-query
+
+#Commons Host
+https://commons.host
+
+#DnsWarden
+# Adblocking DNS
+https://doh.dnswarden.com/adblock
+
+# Uncensored DNS
+https://doh.dnswarden.com/uncensored
+
+#aaflalo.me
+# Server US
+https://dns-nyc.aaflalo.me/dns-query
+
+# Server EU
+https://dns.aaflalo.me/dns-query
+
+#Foundation for Applied Privacy
+https://doh.appliedprivacy.net/query
+
+#captnemo.in
+https://doh.captnemo.in/dns-query
+
+#Tiarap
+https://doh.tiar.app/dns-query
+https://doh.tiarap.org/dns-query
+
+#DNS.SB
+https://doh.dns.sb/dns-query
+
+#FAELIX
+https://rdns.faelix.net/
+
+#doh.li
+https://doh.li/dns-query
+
+#armadillodns.net	
+https://doh.armadillodns.net/dns-query
+
+#NetWeaver
+https://doh.netweaver.uk/dns-query
+
+#jp.tiar.app
+https://jp.tiar.app/dns-query
+https://jp.tiarap.org/dns-query
+
+#Association 42l
+https://doh.42l.fr/dns-query
+
+#Andrews & Arnold
+https://dns.aa.net.uk/dns-query
+
+#@matthewgall - mydns.network
+https://adblock.mydns.network/dns-query
+
+#ibksturm.synology.me
+https://ibksturm.synology.me/dns-query
+
+#jcdns.fun
+https://jcdns.fun/dns-query
+
+#@null31
+https://ibuki.cgnat.net/dns-query
+
+#Cloudflare
+https://cloudflare-dns.com/dns-query
+
+#Quad9
+# Quad9 Unsecure DOH https://dns10.quad9.net/dns-query 
+9.9.9.10 
+149.112.112.10 
+2620:fe::10 
+2620:fe::fe:10
+
+# Quad9 Secure DOH https://dns9.quad9.net/dns-query 
+9.9.9.9 
+149.112.112.9
+2620:fe::9
+2620:fe::fe:9
+
+# Quad9 Secure (Recomend) https://dns.quad9.net/dns-query 
+9.9.9.9
+149.112.112.112
+2620:fe::fe
+2620:fe::fe:9

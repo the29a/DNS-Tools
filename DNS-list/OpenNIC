@@ -1,0 +1,11 @@
+#OpenNIC IPv4
+nameserver 77.73.68.161 
+nameserver 51.254.25.115
+nameserver 193.183.98.66
+nameserver 89.18.27.167
+
+#OpenNIC IPv6
+nameserver 2a00:1838:37:143::cb75
+nameserver 2001:41d0:2:73d4::125
+nameserver 2a00:dcc0:dead:b242::42
+nameserver 2001:470:2179:dead:0:3e5:0:c849
