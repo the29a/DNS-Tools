@@ -9,3 +9,4 @@ DNS-Tools
 
 [DNS-over-HTTPS](https://en.wikipedia.org/wiki/DNS_over_HTTPS)   
 [DNS over TLS](https://en.wikipedia.org/wiki/DNS_over_TLS)   
+[Mozilla DoH FAQ](https://support.mozilla.org/en-US/kb/dns-over-https-doh-faqs)
