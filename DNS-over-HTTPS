@@ -7,15 +7,35 @@ https://dns.adguard.com/dns-query
 # Family protection (adult content blocking)
 https://dns-family.adguard.com/dns-query
 
+176.103.130.130
+176.103.130.131
+2a00:5a60::ad1:0ff
+2a00:5a60::ad2:0ff
+
 
 #Google
 https://dns.google/dns-query
 
+8.8.8.8
+8.8.4.4
+2001:4860:4860::8888
+2001:4860:4860::8844
+
 #Cisco Umbrella/OpenDNS (No DNSSEC)
 https://doh.opendns.com/dns-query
 
+#OpenDNS
+208.67.222.222
+208.67.220.220
+2620:119:35::35
+2620:119:53::53 
+
 #CleanBrowsing (parental control)
 https://doh.cleanbrowsing.org/doh/family-filter/
+185.228.168.168
+185.228.169.168
+2a0d:2a00:1::
+2a0d:2a00:2::
 
 #nextdns.io (Register requied)
 https://dns.nextdns.io/<config_id>
@@ -30,10 +50,10 @@ https://doh.crypto.sx/dns-query
 https://doh.powerdns.org
 
 #blahdns.com
-# Switzerland (IPv6 ONLY) 
-https://doh-ch.blahdns.com/dns-query 
+# Switzerland (IPv6 ONLY)
+https://doh-ch.blahdns.com/dns-query
 
-# Japan 
+# Japan
 https://doh-jp.blahdns.com/dns-query
 
 # Germany
@@ -98,7 +118,7 @@ https://rdns.faelix.net/
 #doh.li
 https://doh.li/dns-query
 
-#armadillodns.net	
+#armadillodns.net
 https://doh.armadillodns.net/dns-query
 
 #NetWeaver
@@ -130,19 +150,19 @@ https://ibuki.cgnat.net/dns-query
 https://cloudflare-dns.com/dns-query
 
 #Quad9
-# Quad9 Unsecure DOH https://dns10.quad9.net/dns-query 
-9.9.9.10 
-149.112.112.10 
-2620:fe::10 
+# Quad9 Unsecure DOH https://dns10.quad9.net/dns-query
+9.9.9.10
+149.112.112.10
+2620:fe::10
 2620:fe::fe:10
 
-# Quad9 Secure DOH https://dns9.quad9.net/dns-query 
-9.9.9.9 
+# Quad9 Secure DOH https://dns9.quad9.net/dns-query
+9.9.9.9
 149.112.112.9
 2620:fe::9
 2620:fe::fe:9
 
-# Quad9 Secure (Recomend) https://dns.quad9.net/dns-query 
+# Quad9 Secure (Recomend) https://dns.quad9.net/dns-query
 9.9.9.9
 149.112.112.112
 2620:fe::fe
